@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4T6XcPS6N0okIxrxmXONYGUwKnYd3KewDWQ2c7C0jRVWfPK40FqH4OyfXpYy4JCcEohMA7g7YJKqLKp0YAVcBw==",
+  "dgSpecHash": "R6CvuJ2oZ5mV0SslSiStoHLjTmR7XkAyZaOYTbZ+dXhr2vqUQSgrzFLdns68TS2OiyplpnkFN2rK56UwYTN77w==",
   "success": true,
   "projectFilePath": "/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/khtonicheskiy/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/5.0.6/microsoft.netcore.app.runtime.linux-x64.5.0.6.nupkg.sha512",
+    "/home/khtonicheskiy/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/5.0.6/microsoft.aspnetcore.app.runtime.linux-x64.5.0.6.nupkg.sha512",
+    "/home/khtonicheskiy/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.6/microsoft.netcore.app.host.linux-x64.5.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
