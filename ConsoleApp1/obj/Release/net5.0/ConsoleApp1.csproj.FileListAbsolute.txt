@@ -1,0 +1,16 @@
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.deps.json
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.runtimeconfig.json
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ref/ConsoleApp1.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.pdb
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.csprojAssemblyReference.cache
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.AssemblyInfo.cs
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ref/ConsoleApp1.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.pdb
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.genruntimeconfig.cache
