@@ -14,3 +14,6 @@
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ref/ConsoleApp1.dll
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.pdb
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.genruntimeconfig.cache
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/EazyCalculationLibrary.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/EazyCalculationLibrary.pdb
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.csproj.CopyComplete

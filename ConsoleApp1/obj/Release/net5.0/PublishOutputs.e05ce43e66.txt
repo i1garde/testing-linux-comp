@@ -3,3 +3,5 @@
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/publish/ConsoleApp1.deps.json
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/publish/ConsoleApp1.runtimeconfig.json
 /home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/publish/ConsoleApp1.pdb
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/publish/EazyCalculationLibrary.dll
+/home/khtonicheskiy/RiderProjects/Solution1/ConsoleApp1/bin/Release/net5.0/publish/EazyCalculationLibrary.pdb

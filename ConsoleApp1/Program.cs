@@ -1,4 +1,6 @@
 ﻿using System;
+using EazyCalculationLibrary.Abstract;
+using EazyCalculationLibrary.Impl;
 
 namespace ConsoleApp1
 {
@@ -8,7 +10,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Enter a number: ");
             int num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(num);
+            ISquareFinder squareFinder = new SquareFinder();
+            Console.WriteLine(squareFinder.FindSquare(num));
         }
     }
 }

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "EazyCalculationLibrary": "1.0.0"
+        },
         "runtime": {
           "ConsoleApp1.dll": {}
+        }
+      },
+      "EazyCalculationLibrary/1.0.0": {
+        "runtime": {
+          "EazyCalculationLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EazyCalculationLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
